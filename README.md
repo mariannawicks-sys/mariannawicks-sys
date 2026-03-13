@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Marianna 👋
 
-<!--
-**mariannawicks-sys/mariannawicks-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oncology data & precision medicine professional transitioning into biostatistics.
 
-Here are some ideas to get you started:
+I build R-based statistical analyses using oncology datasets to study cancer survival, biomarkers, and treatment outcomes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+- Cancer survival analysis
+- Biomarker and genomic predictors
+- Oncology outcomes research
+- Precision medicine analytics
+
+## Tools
+R • Survival Analysis • Logistic Regression • Cox Models • ggplot2 • Clinical Oncology Data
+
+## Current Focus
+Building a portfolio of oncology biostatistics projects using real-world cancer datasets.
